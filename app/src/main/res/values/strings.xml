@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Next</string>
+    <string name="title_activity_puzzle_generator">PuzzleGenerator</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="description">Description</string>
+    <string name="Return">Return</string>
+    <string name="Settings">Settings</string>
+    <string name="MainMenu">Main Menu</string>
+    <string name="piece_of_mind">Piece Of Mind</string>
+    <string name="play">Play</string>
+    <string name="Import">Import</string>
+    <string name="Choose">Select an image</string>
+    <string name="message">Message</string>
+    <string name="generate">Generate</string>
+    <string name="textViewer">textViewer</string>
+    <string name="changeDifficulty">Change Difficulty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Tutorial">Tutorial</string>
+    <string name="database">database</string>
+    <string name="submit_button">Submit</string>
+    <string name="Rating">Rating (out of 5)</string>
+    <string name="feedback_input">What are your thoughts?</string>
+    <string name="view_ratings">View Ratings</string>
+    <string name="feedback">Feedback</string>
+    <string name="note_n_in_case_your_taken_photo_is_rotated_try_taking_the_photo_while_holding_the_device_sideways_landscape">*NOTE* \n In case your taken photo is rotated, try taking the photo while holding the device sideways (landscape).</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328771317846",
+    "firebase_url": "https://pieceofmind-94086-default-rtdb.firebaseio.com",
+    "project_id": "pieceofmind-94086",
+    "storage_bucket": "pieceofmind-94086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328771317846:android:691991a5806ca23d1c8bf7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328771317846-vt1e0ppi3coesfkht5v7730grek052u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNimegYLgJhXkI1X8iKFbXy6IV6SRWqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328771317846-vt1e0ppi3coesfkht5v7730grek052u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
